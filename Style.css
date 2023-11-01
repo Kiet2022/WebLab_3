@@ -1,9 +1,14 @@
 header{
-    background-color: rgba(0, 128, 0, 0.834);
-    align-items: flex-start;
+    background-color: rgb(255, 255, 255);
+    padding: 30;
 }
-
-body {
+nav{
+    padding: 20px;
+    padding: 10px;
+    background-color: rgb(8, 174, 55);
+}
+article{
+    
     background-color: rgb(190, 248, 102);
 }
 section{
@@ -16,6 +21,9 @@ aside{
 .asideR{
     width: 20%;
     float: right;
+}
+footer{
+    background-color: rebeccapurple;
 }
 ul{
     font-size: medium;
@@ -32,8 +40,8 @@ img{
     width: 100%;
 }
 .imgPanel{
-    height: 30%;
-    width: 30%;
+    height: 40%;
+    width: 40%;
 }
 .imgMarquee{
     height: max-content;
@@ -46,10 +54,10 @@ div{
 .divFloatRight{
     float: right;
 }
-nav{
-
-    background-color: rgb(47, 64, 255);
+.divSearch{
+    float:right;
 }
+
 marquee{
     width: 20%;
 }
