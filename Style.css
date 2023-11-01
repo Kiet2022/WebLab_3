@@ -1,0 +1,55 @@
+header{
+    background-color: rgba(0, 128, 0, 0.834);
+    align-items: flex-start;
+}
+
+body {
+    background-color: rgb(190, 248, 102);
+}
+section{
+    float: left;
+}
+aside{
+    background-color: aliceblue;
+    float: left;
+}
+.asideR{
+    width: 20%;
+    float: right;
+}
+ul{
+    font-size: medium;
+    list-style-type: square;
+}
+p{
+    font-size: large;
+}
+.Login{
+    float: right;
+}
+img{
+    height: 100%;
+    width: 100%;
+}
+.imgPanel{
+    height: 30%;
+    width: 30%;
+}
+.imgMarquee{
+    height: max-content;
+    width: max-content;
+}
+div{
+    float: left;
+}
+
+.divFloatRight{
+    float: right;
+}
+nav{
+
+    background-color: rgb(47, 64, 255);
+}
+marquee{
+    width: 20%;
+}
